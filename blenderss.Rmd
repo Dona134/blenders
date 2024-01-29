@@ -1,6 +1,6 @@
 ---
 title: "Blenders Similarity"
-output: html_document
+output: html_notebook
 date: "2024-01-29"
 ---
 
